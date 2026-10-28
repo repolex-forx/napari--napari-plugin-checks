@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/napari/napari-plugin-checks/commit/7775fdda3048b9355c311b867e90ad4b9dce197d",
       "git:hexsha": "7775fdda3048b9355c311b867e90ad4b9dce197d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/napari/napari-plugin-checks/commit/414714a322a3c6f8d509caa6673f2ef2a927d862",
