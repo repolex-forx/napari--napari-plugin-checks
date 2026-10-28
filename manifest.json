@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "napari",
+  "repo": "napari-plugin-checks",
+  "versions": [
+    {
+      "commit": "7775fdda3048b9355c311b867e90ad4b9dce197d",
+      "parsed_at": "2026-10-28T11:17:15.714824+00:00",
+      "filetree": "filetree/7775fdda3048b9355c311b867e90ad4b9dce197d.nq.gz",
+      "blobs": [
+        "blob/a9088e73aabd58fb48a0be2e871a5be3ea2b20ee.nq.gz",
+        "blob/c793f63368e8ca49b76af352c37d772cb6de92ce.nq.gz",
+        "blob/e5d82dba609375d23e171146b71ec1596b632c87.nq.gz",
+        "blob/606849326a4002007fd42060b51e69a19c18675c.nq.gz",
+        "blob/6a3cd18446a1aa3818b1f4b587c7f4e953e94786.nq.gz",
+        "blob/1d43943f65d2c6631d2916e5e1bf383dd43f8bf1.nq.gz",
+        "blob/ee4da56f9e371f43871a0de233fd7c4283d929ae.nq.gz",
+        "blob/e0ce81d0d7b1ca67b6966e4a2c45c32eca02eb83.nq.gz",
+        "blob/76c3b0cbc4aeddd567ebbc0a9f8f6c027b22608a.nq.gz",
+        "blob/79c325b917e51d05ef5939ff2a78308d95d9d9de.nq.gz",
+        "blob/3f712512458cde2f1337abfde5d33d34c4da7599.nq.gz",
+        "blob/ca44497dfc342e94e559eee2c2eeb5922a7328c5.nq.gz",
+        "blob/5548dedaba969127acf5a7bf4c0c9211590ca179.nq.gz",
+        "blob/87d1c0b0b4aa01d141da6397ac8e5935706d3b90.nq.gz",
+        "blob/b6a6ceeb5b87927ad53b00e52613ed2915dc8707.nq.gz",
+        "blob/cf908f5e5f3245988412c4dde24ba5e3f8e4c80e.nq.gz",
+        "blob/69321c78472ca8e2e10aae3a3a04f795f07a1365.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
